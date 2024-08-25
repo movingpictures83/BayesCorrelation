@@ -1,0 +1,2 @@
+Prefix plugins/BayesCorrelation/example/
+Plugin BayesCorrelation inputfile parameters.txt outputfile bn_correlation.csv
